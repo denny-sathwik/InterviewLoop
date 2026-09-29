@@ -1,0 +1,6 @@
+{
+  "name": "InterviewLoop",
+  "description": "AI mock interview platform with persistent adaptive memory that tracks candidate mistakes and weak concepts across interviews to dynamically adapt and target weaknesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
